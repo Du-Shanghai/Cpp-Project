@@ -1,5 +1,5 @@
 # Cpp-Project
-This is a *C++* Project
+This is a simple *simulation epidemic program*
 
 Thanks for **jxh** and **myy** !
 
