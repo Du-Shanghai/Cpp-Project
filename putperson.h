@@ -28,7 +28,7 @@ int gaussrand(double f, double q)
 	else
 		X = V2 * sqrt(-2 * log(S) / S);
 	phase = 1 - phase;
-	X = X * f + q;    //·½²î  ÆÚÍû 
+	X = X * f + q;    //Ë‡ËË›Ã®  Ä†ÃšÃÅ± 
 	a = X;
 	return (int)a;
 }
